@@ -40,12 +40,12 @@ I fixed the high and low hint logic so the game gives the correct hint based on 
 
 Describe your fixed game in numbered steps so a reader can follow along without watching a video:
 
-1. <!-- I selected Easy difficulty and confirmed that the number range updated correctly. -->
-2. <!-- I entered a guess that was lower than the secret number. -->
-3. <!-- The game correctly gave me a hint to guess higher. -->
-4. <!-- I continued entering guesses until the game ended. -->
-5. <!-- I clicked New Game and confirmed that the previous guess history was cleared. -->
-6. <!-- The attempts reset and I was able to start guessing again.-->
+1. I selected Easy difficulty and confirmed that the number range updated correctly.
+2.  I entered a guess that was lower than the secret number. 
+3. The game correctly gave me a hint to guess higher.
+4. I continued entering guesses until the game ended.
+5. I clicked New Game and confirmed that the previous guess history was cleared. 
+6.  The attempts reset and I was able to start guessing again. 
 
 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
